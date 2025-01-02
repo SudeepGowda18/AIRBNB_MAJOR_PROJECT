@@ -15,6 +15,7 @@ This is a web application that mimics the functionality of Airbnb, allowing user
 - Responsive design (in progress)
 
 ## Installation
+## If you want to clone use below link
 1. Clone the repository:
    ```bash
    git clone https://github.com/SudeepGowda18/AIRBNB_MAJOR_PROJECT.git
