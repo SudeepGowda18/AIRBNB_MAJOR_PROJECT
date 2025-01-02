@@ -1,7 +1,7 @@
 # Airbnb Clone
 
 ## Description
-This is a web application that mimics the functionality of Airbnb, allowing users to browse, add, edit, and delete listings. The app features user authentication for a personalized experience.
+This is a web application that mimics the functionality of the Airbnb, allowing users to browse, add, edit, and delete listings. The app features user authentication for a personalized experience.
 
 ## Technologies Used
 - Node.js
