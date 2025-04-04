@@ -72,7 +72,7 @@
     }
     65% {
       -webkit-transform: translateY(-30px) rotateY(0deg);
-              transform: translateY(-30px) rotateY(0deg);
+              transform: translateY(-30px) rotateY(0deg); 
     }
     85% {
       -webkit-transform: translateY(-34px);
