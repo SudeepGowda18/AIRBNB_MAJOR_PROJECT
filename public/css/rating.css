@@ -149,7 +149,7 @@
   .starability-coinFlip > input:checked + label,
   .starability-coinFlip > input:focus + label {
     background-position: 0 -30px;
-  }
+  } 
   
   .starability-coinFlip > input[disabled]:hover + label {
     cursor: default;
