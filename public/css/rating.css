@@ -55,7 +55,7 @@
     }
     25% {
       -webkit-transform: translateY(-34px); 
-              transform: translateY(-34px);
+              transform: translateY(-34px); 
       opacity: 1;
     }
     30% { 
