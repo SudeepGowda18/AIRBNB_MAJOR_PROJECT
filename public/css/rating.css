@@ -54,7 +54,7 @@
       opacity: 0;
     }
     25% {
-      -webkit-transform: translateY(-34px);
+      -webkit-transform: translateY(-34px); 
               transform: translateY(-34px);
       opacity: 1;
     }
