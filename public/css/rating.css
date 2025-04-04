@@ -99,7 +99,7 @@
     }
     30% {
       -webkit-transform: translateY(-30px);
-              transform: translateY(-30px);
+              transform: translateY(-30px); 
     }
     35% {
       -webkit-transform: translateY(-30px) rotateY(0deg);
